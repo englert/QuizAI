@@ -1,2 +1,2 @@
 cvzone
-cv2
+opencv-python
